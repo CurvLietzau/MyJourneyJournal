@@ -1,2 +1,0 @@
-# MyJourneyJournal
-Projekt 1
