@@ -45,6 +45,8 @@ Hier einige Beispiele, wie das bei Ihrer Projektidee aussehen würde:
 - Es gibt ein Log-In und eine Registrierung.
 - Die hochgeladenene Daten sind erst nach Freigabe für individuelle NutzerInnen verfügbar.
 
+Die letzte Zeile ist eindeutig Marketing und hat nichts mit Softwareentwicklung zu tun: "... können innerhalb von Sekunden erstellt werden und Fotos/ Videos können einfach auf der jeweiligen GPS Location hochgeladen werden."
+
 Das führt zum nächsten Nachteil an Ihrer Projektidee: Es gibt keine Interaktion zwischen NutzerInnen und Programm. Vielmehr ist dies eine simple Datenbankanwendung.
 
 Außerdem sollten Sie eine Idee entwickeln, die Sie gerne hätten, also etwas, das es noch nicht gibt. Was Sie beschreiben gibt es aber bereits.
