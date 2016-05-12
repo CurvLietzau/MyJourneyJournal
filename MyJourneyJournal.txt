@@ -1,0 +1,5 @@
+PRG Projekt Doku:
+MyJourneyJournal
+
+12.05.2016
+Erstellung des php Login- und Logoutskripts mit Verknuepfung der von Scamp erstellten MySQL DatenBank 'MyJourneyJournal'.
